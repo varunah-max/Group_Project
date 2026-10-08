@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ChatServer/ChatServer.csproj" Id="1e63e0fc-d45b-4366-940b-932a31ea071d" />
+  <Project Path="ClientChat/ClientChat.csproj" Id="e33320ff-f861-488b-b727-96c97fc16fea" />
   <Project Path="Group_Project/Group_Project.csproj" />
 </Solution>
